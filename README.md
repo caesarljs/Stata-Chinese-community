@@ -13,8 +13,9 @@
 | 序号 | TidyFriday | Stata中文社区 |
 | :---: | :---: | :---: |
 | 1 | [这里有 82 个 Stata 绘图主题，你最喜欢那个呢？](https://mp.weixin.qq.com/s/HtfMyirg6bN63EApBGe6Pw) | [Stata绘图主题.zip](https://czxa.github.io/Stata-Chinese-community/zip/Stata绘图主题.zip) |
+| 2 | [如何在STATA中合并数据文件呢？](https://mp.weixin.qq.com/s/8KBxxkooHtZETctx9NfA1Q) | [如何在Stata中合并数据文件？.zip](https://czxa.github.io/Stata-Chinese-community/zip/如何在Stata中合并数据文件？.zip)
 
 -----
 
 <h4 align="center">License</h4>
-<h6 align="center">MIT © Stata中文社区</h6>
+<h6 align="center">MIT © Stata 中文社区</h6>
